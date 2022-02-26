@@ -4,4 +4,5 @@ c=a+b
 print(c)
 print(a)
 d=25
-print(a+b+C)
+print(a+b+C
+print(a+b+c+d))
